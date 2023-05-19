@@ -104,4 +104,5 @@
 
 # Contributing
 
-# Powered By : John Andria
+Powered By
+[John Andria](https://github.com/JohnAndria)
